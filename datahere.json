@@ -1,0 +1,223 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generated": 1532375910000,
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2018-07-23&endtime=2018-07-24&limit=5",
+    "title": "USGS Earthquakes",
+    "status": 200,
+    "api": "1.5.8",
+    "limit": 5,
+    "offset": 1,
+    "count": 5
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.66,
+        "place": "7km NNW of Cholame, CA",
+        "time": 1532375677190,
+        "updated": 1532375843623,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73054091",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc73054091&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 42,
+        "net": "nc",
+        "code": "73054091",
+        "ids": ",nc73054091,",
+        "sources": ",nc,",
+        "types": ",nearby-cities,origin,phase-data,",
+        "nst": 14,
+        "dmin": 0.01908,
+        "rms": 0.08,
+        "gap": 73,
+        "magType": "md",
+        "type": "earthquake",
+        "title": "M 1.7 - 7km NNW of Cholame, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3171692,
+          35.7813339,
+          5.63
+        ]
+      },
+      "id": "nc73054091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.72,
+        "place": "4km WSW of Volcano, Hawaii",
+        "time": 1532375511160,
+        "updated": 1532375689800,
+        "tz": -600,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv70466232",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=hv70466232&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 46,
+        "net": "hv",
+        "code": "70466232",
+        "ids": ",hv70466232,",
+        "sources": ",hv,",
+        "types": ",geoserve,origin,phase-data,",
+        "nst": 13,
+        "dmin": 0.01072,
+        "rms": 0.12,
+        "gap": 71,
+        "magType": "md",
+        "type": "earthquake",
+        "title": "M 1.7 - 4km WSW of Volcano, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.2731628,
+          19.4148331,
+          0.87
+        ]
+      },
+      "id": "hv70466232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 1.98,
+        "place": "3km WSW of Volcano, Hawaii",
+        "time": 1532375377770,
+        "updated": 1532375717520,
+        "tz": -600,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv70466222",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=hv70466222&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 60,
+        "net": "hv",
+        "code": "70466222",
+        "ids": ",hv70466222,",
+        "sources": ",hv,",
+        "types": ",geoserve,origin,phase-data,",
+        "nst": 19,
+        "dmin": 0.00665,
+        "rms": 0.17,
+        "gap": 69,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 2.0 - 3km WSW of Volcano, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.2668304,
+          19.413166,
+          1.54
+        ]
+      },
+      "id": "hv70466222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.1,
+        "place": "38km SSW of Redoubt Volcano, Alaska",
+        "time": 1532375206021,
+        "updated": 1532375444246,
+        "tz": -540,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak19966271",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ak19966271&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 68,
+        "net": "ak",
+        "code": "19966271",
+        "ids": ",ak19966271,",
+        "sources": ",ak,",
+        "types": ",geoserve,origin,",
+        "nst": null,
+        "dmin": null,
+        "rms": 0.48,
+        "gap": null,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 2.1 - 38km SSW of Redoubt Volcano, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.897,
+          60.1511,
+          123.7
+        ]
+      },
+      "id": "ak19966271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.28,
+        "place": "4km WSW of Volcano, Hawaii",
+        "time": 1532375150560,
+        "updated": 1532375492600,
+        "tz": -600,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv70466212",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=hv70466212&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 80,
+        "net": "hv",
+        "code": "70466212",
+        "ids": ",hv70466212,",
+        "sources": ",hv,",
+        "types": ",geoserve,origin,phase-data,",
+        "nst": 22,
+        "dmin": 0.006352,
+        "rms": 0.12,
+        "gap": 51,
+        "magType": "ml",
+        "type": "earthquake",
+        "title": "M 2.3 - 4km WSW of Volcano, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.2806702,
+          19.4121666,
+          1.33
+        ]
+      },
+      "id": "hv70466212"
+    }
+  ],
+  "bbox": [
+    -155.2806702,
+    19.4121666,
+    0.87,
+    -120.3171692,
+    60.1511,
+    123.7
+  ]
+}
